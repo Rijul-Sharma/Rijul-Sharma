@@ -1,3 +1,5 @@
+<img src="./LinkedIn Banner.png" alt="Rijul Sharma Banner" width="100%" />
+
 ## 👋 About Me 
 Hi, I’m ***Rijul Sharma***, a passionate Full Stack Developer with experience building real-time, secure, and scalable web applications.
 
