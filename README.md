@@ -9,6 +9,13 @@ Whether it’s writing scalable APIs or tackling algorithmic challenges (500+ so
 
 <br>
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rijul-Sharma&theme=radical" />
+</p>
+
+<br>
+
 ## 🧰 Technologies I’ve Worked With:
 
 <p align="left">
